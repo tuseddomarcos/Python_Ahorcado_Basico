@@ -1,0 +1,6 @@
+El Juego
+El objetivo de este juego es descubrir una palabra adivinando las letras que la componen. 
+A cada ronda, los jugadores escogeran simultaneamente una letra que crean que pueda formar parte de la palabra.
+Si la palabra contiene la letra escogida, se mostrara en que posician(ones) ella esta.
+En el caso de que la letra no exista en la palabra, se dibujara una parte del cuerpo del munieco del jugador.
+Cuando esten dibujadas las 7 partes del cuerpo del munieco, el jugador se quedara fuera de la partida.
